@@ -1,14 +1,21 @@
-nav{
+/* nav{
     background-color: rgb(4, 4, 110);
     width: auto;
     height: 5%;
     display: flex;
 }
-.nav4{
-    display: inline;
-}
-.Assessment{
-    justify-content: right;
-    display: inline;
 
-}
+.Assessment{
+    margin: right:500px;
+    display: inline;
+    color: white;
+    }
+   
+    .qu-1{
+        margin-right: 500px;
+        color: white;
+    } */
+    .Navbar{
+        background: #422e7d;
+
+    }
